@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PrincipalMuseo
+comment0.text=\r\n\ Clase\ principal\ del\ sistema\ del\ museo.\r\n\ Contiene\ el\ m\u00E9todo\ main\ donde\ se\ crean\ instancias\ de\ \r\n\ {@link\ Persona},\ {@link\ BoletoMuseo}\ y\ {@link\ VentaDelDia},\r\n\ simulando\ el\ proceso\ de\ asignaci\u00F3n\ de\ boletos\ y\ registro\ de\ ventas.\r\n\r\n\ @author\ \r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ ejecuta\ el\ programa.\r\n\r\n\ @param\ args\ argumentos\ de\ l\u00EDnea\ de\ comando\ (no\ utilizados).\r\n
+numComments=2

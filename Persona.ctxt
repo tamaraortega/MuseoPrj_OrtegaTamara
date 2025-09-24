@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Clase\ que\ representa\ a\ una\ persona\ que\ puede\ adquirir\ un\ boleto\ de\ museo.\r\n\ Forma\ parte\ de\ la\ Actividad\ Asincr\u00F3nica\ 4\ (AA4).\ \r\n\r\n\ @author\ Tamara\ Ortega\r\n\ @version\ 1.0\r\n
+comment1.params=nombre\ ident
+comment1.target=Persona(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Primer\ metodo\ contructor\ para\ la\ clase\ persona\:\r\n\ Crea\ una\ nueva\ persona\ con\ la\ identificacion.\ \r\n\ @param\ nombre\ Nombre\ de\ la\ persona\r\n\ @param\ ident\ Identificacion\ de\ la\ persona\ \r\n
+comment2.params=nombre
+comment2.target=Persona(java.lang.String)
+comment2.text=\r\n\ Segundo\ metodo\ contructor\ para\ la\ clase\ persona\:\r\n\ Crea\ una\ nueva\ persona\ unicamente\ con\ el\ nombre\r\n\ @param\ nombre\ Nombre\ de\ la\ persona\r\n
+comment3.params=pIdentificacion
+comment3.target=void\ setIdentificacion(java.lang.String)
+comment3.text=\r\n\ Metodo\ para\ asignar\ la\ identificacion\ a\ la\ persona\ \r\n\ @param\ pIdentificacion\ Identificacion\ a\ asignar\r\n
+comment4.params=pMiBoleto
+comment4.target=void\ asignarBoleto(BoletoMuseo)
+comment4.text=\r\n\ Metodo\ para\ asignar\ la\ identificacion\ a\ la\ persona\ \r\n\ @param\ pIdentificacion\ Identificacion\ a\ asignar\r\n
+comment5.params=
+comment5.target=int\ consultarMiNumeroDeBoleto()
+comment5.text=\r\n\ Metodo\ para\ asignar\ consultar\ el\ numero\ de\ boleto\ \r\n\ @param\ miBoleto\ Boleto\ de\ museo\ a\ asignar\r\n\ @throws\ NullPointerException\ si\ la\ persona\ no\ tiene\ boleto\ asignado\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Metodo\ para\ retornar\ todos\ los\ datos\ de\ la\ clase\r\n\ @return\ Cadena\ de\ caracteres\ con\ la\ informacion\ de\ persona\ \r\n
+numComments=7
